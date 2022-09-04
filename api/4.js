@@ -5,6 +5,6 @@ export default function handler(req, res) {
     "name"  : "Cubie #4",
     "rarity": "Rare",
     "power" : "2",
-    "image" : "https://gateway.btfs.io/btfs/Qmd6p3c4BSA8y2K46BRTCQSMWPkmm92uqUM186Bk7AScRr"
+    "image" : "https://ipfs.filebase.io/ipfs/bafkreih6k3lfstxsq4vuwkzxeiflri7z2dd7yheoryc3hxgw6czn4zqq4i"
   })
 }
